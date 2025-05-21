@@ -25,3 +25,10 @@ I’m always open to collaboration and discussions about game development. If yo
 - 🌐 LinkedIn: [linkedin.com/in/adittttt](https://www.linkedin.com/in/adittttt)
 
 Thanks for visiting my GitHub profile!
+
+## 🕹️ Featured Games
+
+<a href="" target="_blank">
+  <img src="https://github.com/adityagalanga/adityagalanga/blob/main/Dungeon%20Trivia_FG_1000%20x%20500.png?raw=true" alt="Dungeon Trivia" width="200"/>
+</a>
+
