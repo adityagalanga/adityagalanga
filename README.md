@@ -28,21 +28,21 @@ Thanks for visiting my GitHub profile!
 
 ## 🕹️ Featured Games
 
-<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id" target="_blank">
-  <img src="https://github.com/adityagalanga/adityagalanga/blob/main/Dungeon%20Trivia_FG_1000%20x%20500.png?raw=true" alt="Dungeon Trivia" width="200"/>
+<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id">
+  <img src="https://github.com/adityagalanga/adityagalanga/blob/main/Dungeon%20Trivia_FG_1000%20x%20500.png?raw=true" alt="Dungeon Trivia" height="120"/>
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id" target="_blank">
-  <img src="https://github.com/adityagalanga/adityagalanga/blob/main/com.hit.battlebuilder.png?raw=true" alt="Battle Builder" width="200"/>
+<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id">
+  <img src="https://github.com/adityagalanga/adityagalanga/blob/main/com.hit.battlebuilder.png?raw=true" alt="Battle Builder" height="120"/>
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id" target="_blank">
-  <img src="https://github.com/adityagalanga/adityagalanga/blob/main/com.hit.cowboytactics.png?raw=true" alt="Cowboy Tactics" width="200"/>
+<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id">
+  <img src="https://github.com/adityagalanga/adityagalanga/blob/main/com.hit.cowboytactics.png?raw=true" alt="Cowboy Tactics" height="120"/>
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id" target="_blank">
-  <img src="https://github.com/adityagalanga/adityagalanga/blob/main/com.hit.herdsman.jpg?raw=true" alt="Herdsman" width="200"/>
+<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id">
+  <img src="https://github.com/adityagalanga/adityagalanga/blob/main/com.hit.herdsman.jpg?raw=true" alt="Herdsman" height="120"/>
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id" target="_blank">
-  <img src="https://github.com/adityagalanga/adityagalanga/blob/main/com.hit.nagihhomebattle.png?raw=true" alt="Nagih Home Battle" width="200"/>
+<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id" >
+  <img src="https://github.com/adityagalanga/adityagalanga/blob/main/com.hit.nagihhomebattle.png?raw=true" alt="Nagih Home Battle" height="120"/>
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id" target="_blank">
-  <img src="https://github.com/adityagalanga/adityagalanga/blob/main/com.hit.relicriddles.png?raw=true" alt="Relic Riddles" width="200"/>
+<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id" >
+  <img src="https://github.com/adityagalanga/adityagalanga/blob/main/com.hit.relicriddles.png?raw=true" alt="Relic Riddles" height="120"/>
 </a>
