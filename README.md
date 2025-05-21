@@ -28,7 +28,7 @@ Thanks for visiting my GitHub profile!
 
 ## 🕹️ Featured Games
 
-<a href="" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id" target="_blank">
   <img src="https://github.com/adityagalanga/adityagalanga/blob/main/Dungeon%20Trivia_FG_1000%20x%20500.png?raw=true" alt="Dungeon Trivia" width="200"/>
 </a>
 
