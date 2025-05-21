@@ -2,7 +2,7 @@
 
 🎮 **Lead Game Programmer | Unity3D & Construct 3 Enthusiast**
 
-I'm an enthusiastic game programmer who loves learning and creating games. I specialize in building fun, engaging, and optimized games for a variety of platforms, including Android Mobile, Android TV, and Web (HTML5). I’m always eager to explore new ideas, collaborate on creative projects, and push the boundaries of interactive entertainment.
+I'm a passionate and experienced **Lead Game Programmer** with over **5 years in the game development industry**. I specialize in creating fun, innovative, and optimized games across multiple platforms, including Android Mobile, Android TV, and Web (HTML5). I enjoy learning new technologies, solving challenges in game systems, and collaborating with creative teams to bring game ideas to life.
 
 ## 🛠️ Technologies & Tools
 - **Game Engines**: Unity3D, Construct 3  
@@ -12,14 +12,16 @@ I'm an enthusiastic game programmer who loves learning and creating games. I spe
 - **Version Control**: Git, GitHub  
 
 ## 🚀 Career Highlights
-- Developed and published **7+ games** with over **1 million+ combined downloads** on Google Play Store  
-- Built and deployed real-time multiplayer systems using **WebSocket** and **WebRTC**  
-- Delivered all projects **on time** with high standards of optimization and playability  
-- Designed diverse game mechanics across multiple genres and categories  
+- **5+ years** of hands-on experience in game programming and development  
+- Developed and published **10+ games** with over **1 million+ combined downloads** on Google Play Store  
+- Successfully implemented **real-time multiplayer features** using WebSocket and WebRTC  
+- Proven track record of delivering game projects **on time and with high quality**  
+- Designed and developed **diverse game mechanics** across multiple genres  
 
 ## 📫 Let’s Connect!
 I’m always open to collaboration and discussions about game development. If you have an idea, a question, or a project you’d like to talk about, don’t hesitate to reach out!
-- 📧 Email: adityagalang80@gmail.com
+
+- 📧 Email: adityagalang80@gmail.com  
 - 🌐 LinkedIn: [linkedin.com/in/adittttt](https://www.linkedin.com/in/adittttt)
 
 Thanks for visiting my GitHub profile!
