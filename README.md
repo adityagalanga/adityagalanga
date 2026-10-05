@@ -1,30 +1,48 @@
 # 👋 Hi, I'm Aditya Galang Adzana
 
-🎮 **Lead Game Programmer | Unity3D & Construct 3 Enthusiast**
+🎮 **Lead Game Developer | Unity & Construct 3 | Multiplayer & Game Systems**
 
-I'm a passionate and experienced **Lead Game Programmer** with over **5 years in the game development industry**. I specialize in creating fun, innovative, and optimized games across multiple platforms, including Android Mobile, Android TV, and Web (HTML5). I enjoy learning new technologies, solving challenges in game systems, and collaborating with creative teams to bring game ideas to life.
+I'm a **Lead Game Developer with 7+ years of experience** in game development, specializing in building games and interactive experiences across **Android, Android TV, and Web (HTML5)**.
+
+I enjoy working on gameplay systems, multiplayer features, performance optimization, and turning ideas into polished, playable experiences. I'm also always interested in exploring new technologies and finding better ways to build games.
 
 ## 🛠️ Technologies & Tools
-- **Game Engines**: Unity3D, Construct 3  
-- **Languages**: C#, JavaScript, GDScript  
-- **Multiplayer**: WebSocket, WebRTC  
-- **Platforms**: Android, Android TV, HTML5  
-- **Version Control**: Git, GitHub  
+
+* **Game Engines:** Unity, Construct 3
+* **Languages:** C#, JavaScript, GDScript
+* **Multiplayer:** WebSocket, WebRTC
+* **Platforms:** Android, Android TV, Web (HTML5)
+* **Backend:** Node.js, REST API, Redis
+* **Version Control:** Git, GitHub, GitLab
 
 ## 🚀 Career Highlights
-- **5+ years** of hands-on experience in game programming and development  
-- Developed and published **10+ games** with over **1 million+ combined downloads** on Google Play Store  
-- Successfully implemented **real-time multiplayer features** using WebSocket and WebRTC  
-- Proven track record of delivering game projects **on time and with high quality**  
-- Designed and developed **diverse game mechanics** across multiple genres  
 
-## 📫 Let’s Connect!
-I’m always open to collaboration and discussions about game development. If you have an idea, a question, or a project you’d like to talk about, don’t hesitate to reach out!
+* 🎮 **7+ years** of experience in game development
+* 🚀 Developed and published **10+ games** on Google Play
+* 📈 Games with **1M+ combined downloads**
+* 🌐 Built **real-time multiplayer systems** using WebSocket and WebRTC
+* 📺 Developed games and interactive experiences for **Android TV**
+* 🧩 Experienced in gameplay programming, game systems, multiplayer architecture, and optimization
+* 🤝 Worked closely with designers, artists, and other developers to bring game concepts into playable experiences
+* 👨‍💻 Currently working as a **Lead Game Developer**
 
-- 📧 Email: adityagalang80@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/adittttt](https://www.linkedin.com/in/adittttt)
+## 🎮 Portfolio
 
-Thanks for visiting my GitHub profile!
+Want to see more of my work and projects?
+
+🌐 **[alternatestudio.my.id](https://alternatestudio.my.id)**
+
+## 📫 Let's Connect!
+
+I'm always open to discussing game development, new technologies, interesting projects, or potential collaborations.
+
+* 📧 **Email:** [adityagalang80@gmail.com](mailto:adityagalang80@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/adittttt](https://www.linkedin.com/in/adittttt)
+* 🌐 **Portfolio:** [alternatestudio.my.id](https://alternatestudio.my.id)
+
+Thanks for visiting my GitHub profile! 👋
+
+---
 
 ## 🕹️ Featured Games
 
@@ -40,9 +58,9 @@ Thanks for visiting my GitHub profile!
 <a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id">
   <img src="https://github.com/adityagalanga/adityagalanga/blob/main/com.hit.herdsman.jpg?raw=true" alt="Herdsman" height="120"/>
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id" >
+<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id">
   <img src="https://github.com/adityagalanga/adityagalanga/blob/main/com.hit.nagihhomebattle.png?raw=true" alt="Nagih Home Battle" height="120"/>
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id" >
+<a href="https://play.google.com/store/apps/details?id=com.hit.ayomain&hl=id">
   <img src="https://github.com/adityagalanga/adityagalanga/blob/main/com.hit.relicriddles.png?raw=true" alt="Relic Riddles" height="120"/>
 </a>
